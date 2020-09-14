@@ -1,0 +1,2 @@
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\Debug\ComputerGraphicsExperiments.exe
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\Debug\ComputerGraphicsExperiments.pdb

@@ -1,0 +1,23 @@
+﻿  main.cpp
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\Model.h(322,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\Model.h(418,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(237,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(256,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(534,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(535,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(539,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(540,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(542,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(543,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(550,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(746,46): warning C4305: “参数”: 从“double”到“float”截断
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(747,50): warning C4305: “参数”: 从“double”到“float”截断
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(754,46): warning C4305: “参数”: 从“double”到“float”截断
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(755,50): warning C4305: “参数”: 从“double”到“float”截断
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(762,46): warning C4305: “参数”: 从“double”到“float”截断
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(763,50): warning C4305: “参数”: 从“double”到“float”截断
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(770,46): warning C4305: “参数”: 从“double”到“float”截断
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(771,50): warning C4305: “参数”: 从“double”到“float”截断
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(779,41): warning C4305: “参数”: 从“double”到“float”截断
+D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\main.cpp(780,46): warning C4305: “参数”: 从“double”到“float”截断
+  ComputerGraphicsExperiments.vcxproj -> D:\vsPro\Repos\OpenGL\ComputerGraphicsExperiments\Debug\ComputerGraphicsExperiments.exe
